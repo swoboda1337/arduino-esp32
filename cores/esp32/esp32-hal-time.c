@@ -13,6 +13,7 @@
 // limitations under the License.
 
 #include "esp32-hal.h"
+#include <time.h>
 #include "lwip/apps/sntp.h"
 //#include "tcpip_adapter.h"
 #include "esp_netif.h"
